@@ -2,6 +2,7 @@
   "name": "a03-jreed0013",
   "version": "1.0.0",
   "description": "comp 426 a03",
+  "type": "module",
   "main": "./lib/rpsls.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
