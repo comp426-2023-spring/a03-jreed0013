@@ -21,7 +21,7 @@ if (args.h || args.help) {
     process.exit();
 } else {
     // storing the argument in playerChoice
-    const playerChoice = args._[0];
+    var playerChoice = args._[0];
 
     // case where a choice is not given
     if (!playerChoice) {
